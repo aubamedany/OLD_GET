@@ -2,3 +2,4 @@ embedding/
 logs/
 embed_probagation/
 qdrant_storage/
+saved_model/
